@@ -9,5 +9,6 @@ Description: Develop a pipeline to automate the build, testing,
  continuous integration, Docker for containerization, and Ansible
  for configuration management. Implement automated testing
  and deployment to a cloud environment.
- Technologies to use: Docker, Kubernetes, Jenkins, Ansible,
+ 
+Technologies to use: Docker, Kubernetes, Jenkins, Ansible,
  CI/CD, Cloud Deployment.
